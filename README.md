@@ -15,14 +15,17 @@ Prisoner's Dilemma, finding the best simulation for real world
 # Package Design
 - evolution
   - agent
+    - Agent Interface
+    - else class
+    
   - environment
-  
     - Tournament class
     
   - match
-  
+    - Match class
 - People
   - Individual class
   - Population class
 
 Main
+Test
