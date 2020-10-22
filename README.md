@@ -11,3 +11,18 @@ Prisoner's Dilemma, finding the best simulation for real world
   - People can die because of mental problems.
   - People can die accidentally.
   
+
+# Package Design
+- evolution
+  - agent
+  - environment
+  
+    - Tournament class
+    
+  - match
+  
+- People
+  - Individual class
+  - Population class
+
+Main
