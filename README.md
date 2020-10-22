@@ -7,3 +7,7 @@ Prisoner's Dilemma, finding the best simulation for real world
 - All people can make mistake
 - Test for different rounds and generations.
 - People can recognize the situation(the opponnent agents) so that people might understand the decision of CHEAT.
+- CHANGE THE RULE of Natural Selection. 
+  - People can die because of mental problems.
+  - People can die accidentally.
+  
