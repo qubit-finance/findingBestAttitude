@@ -11,6 +11,10 @@ Prisoner's Dilemma, finding the best simulation for real world
   - People can die because of mental problems.
   - People can die accidentally.
   
+- People has discount factor for expected return. That means people prefer immediate return.
+
+- Use RL and find the best method for this. Like GAN.
+  
 
 # Package Design
 - evolution
