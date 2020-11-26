@@ -1,5 +1,6 @@
 # findingBestAttitude
 Prisoner's Dilemma, finding the best simulation for real world
+Use C++ 17
 
 # To do list
 - what if other agents can recognize other's previous decision
